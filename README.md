@@ -1,4 +1,4 @@
-# Impact of Scaling Methods on Logistic Regression Model
+# Impacts of Scaling Methods on Logistic Regression Model
 
 This repository explores the effect of different scaling methods on the performance of a logistic regression model applied to a dataset from a social network advertising campaign. The primary objective is to predict whether a user will purchase a product based on their age, estimated salary, and whether or not they made a purchase.
 
